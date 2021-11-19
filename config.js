@@ -1,20 +1,19 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
+    titleWeb: "Gửi các bạn nam của lớp 12C1",
+    introTitle: 'Gửi các bạn nam của lớp 12C1 <3',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    title: 'Chúc các bạn nam ngày 19/11 tràn đầy niềm vui, không chỉ một ngày mà là mọi ngày đều luôn vui vẻ nha. Chúc các bạn luôn khỏe mạnh, yêu đời, và đậu được trường mình mong muốn nhé!!!',
+    desc: 'Hôm nay là ngày của các bạn, mặc dù là còn nhiều phiền muộn và áp lực, nhưng đọc đến đây thì hãy quên hết đi nghen ',
+    btnYes: 'Đương nhiên là quên hết rồi. Đọc cái này vui quá mà!!',
+    btnNo: 'Không nha, nổi buồn không thể nào vơi được',
+    question: 'Các bạn thấy ngày hôm nay như thế nào?',
+    btnReply: 'Gửi đi với triệu trái tym <3',
+    reply: 'Rất hạnh phúc',
+    mess: 'Mình biết mà 🥰. Yêu các bạn nhiều nhiều 😘😘',
+    messDesc: 'Các bạn xứng đáng được trân trọng như thế <3',
+    btnAccept: 'Okiiiii lun <3'
 }
